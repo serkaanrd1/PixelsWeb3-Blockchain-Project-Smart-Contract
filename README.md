@@ -103,7 +103,7 @@ A blockchain platform such as Ethereum, Binance Smart Chain or Polygon needs to 
 
 # Deploy Adress
 ```
-## 0xD150eDB972565F24AE96fcc0B54DFEb160ac5F35
+0xD150eDB972565F24AE96fcc0B54DFEb160ac5F35
 
 ```
 
