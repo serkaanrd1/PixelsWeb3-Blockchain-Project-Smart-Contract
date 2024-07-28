@@ -99,13 +99,13 @@ It needs to be decided how tokens will be distributed (e.g. distribution to user
 
 A blockchain platform such as Ethereum, Binance Smart Chain or Polygon needs to be chosen.
 
-```
 
-```
 
 # Deploy Adress
-
+```
 ## 0xD150eDB972565F24AE96fcc0B54DFEb160ac5F35
+
+```
 
 # Frontend ( Just small demo avaliable now.. not more ready sorry.)
 
