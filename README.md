@@ -108,7 +108,10 @@ A blockchain platform such as Ethereum, Binance Smart Chain or Polygon needs to 
 ```
 
 ## Frontend ( Just small demo avaliable now.. not more ready sorry.)
+```
+Vue.js , FireBase , Web3.js
 
+```
 
 ### Project setup
 
